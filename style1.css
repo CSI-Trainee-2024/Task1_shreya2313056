@@ -12,9 +12,7 @@ font-family:'poppins',sans-serif;
     position:relative;
     opacity:0.7;
     font-weight: bold;
-    font-style:inherit;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    text-decoration-color: #fff;
+
 
 }
 nav{
@@ -301,3 +299,20 @@ h3{
     margin-top: 20px;
     font-weight: 600;
 }
+.menu{
+    width:80%;
+    margin: auto;
+    text-align: center;
+    padding-top: 50px;
+
+}
+.menu-col{
+    flex-basis: 32%;
+    border-radius: 10px;
+    margin-bottom: 30px;
+    position: relative;
+    overflow: hidden;
+}
+.menu-col img{
+    width: 100%;
+    display: block;}
